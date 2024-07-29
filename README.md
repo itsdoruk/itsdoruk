@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://user-images.githubusercontent.com/47300834/180059603-3bd6dbc7-bf2e-4123-a97c-8b834f1fcaff.gif
 ![itsdoruk's Stats](https://github-readme-stats.vercel.app/api?username=itsdoruk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![itsdoruk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsdoruk&theme=vue-dark&hide_border=true)
 
